@@ -203,7 +203,7 @@ ValType TVector<ValType>::operator*(const TVector<ValType> &v)
 		return res;
 	}
 	else
-		throw "Warning"
+		throw "Warning";
 } /*-------------------------------------------------------------------------*/
 
 
